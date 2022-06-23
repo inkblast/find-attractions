@@ -1,0 +1,2 @@
+Bentley University,University,https://www.bentley.edu/,42.38353,-71.222745,green
+Museum of Fine Arts,Tourism,https://www.mfa.org/,42.33959,-71.09403,green
